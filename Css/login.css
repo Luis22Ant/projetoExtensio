@@ -1,0 +1,8 @@
+﻿.buttonLogin {
+    border: 1px solid black;
+    text-decoration: none;
+    background-color: #b99968;
+    padding: 2px;
+    color: #3b1f1b !important;
+    border-radius: 7px;
+}
